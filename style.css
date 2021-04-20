@@ -82,6 +82,7 @@
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
+    text-transform: uppercase;
 	opacity: 0.83;
 }
 
