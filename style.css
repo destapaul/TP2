@@ -1,11 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #EFBB0A;
 }
 
 #header
 {
+    text-align: center;
 	background: #ccc;
 	padding: 20px;
 }
