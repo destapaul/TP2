@@ -78,6 +78,7 @@
 	background: #FE9A2E;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
+    text-transform: uppercase;
 	opacity: 0.83;
 }
 
